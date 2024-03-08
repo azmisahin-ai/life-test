@@ -3,8 +3,3 @@ flake8
 black
 Sphinx
 behave
-gunicorn
-flask
-flask-restx
-gevent
-flask-socketio
