@@ -1,5 +1,5 @@
 # Introduction
-It is a template to be used in the automation systems of a web service or project developed using Flask and Python.
+Modeling the life cycle in the evolutionary process, this project aims to discover how unconsciously developing programs exist in a dynamic ecosystem.
 
 🔖 Version: 0.0.1
 

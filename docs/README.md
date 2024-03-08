@@ -38,22 +38,22 @@
 
 ```
 
-# Web Service Template
+# Web Service Life
 
-This project is a template for building automation systems in web projects. It utilizes Flask, a popular Python web framework, to provide a simple web service structure.
+Modeling the life cycle in the evolutionary process, this project aims to discover how unconsciously developing programs exist in a dynamic ecosystem.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/azmisahin/azmisahin-software-web-service-template-flask-python-v1.git
+   git clone https://github.com/azmisahin-ai/life.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd azmisahin-software-web-service-template-flask-python-v1
+   cd life
    ```
 
 3. Create a virtual environment (optional but recommended):
@@ -87,5 +87,5 @@ This project is a template for building automation systems in web projects. It u
 Run the web service using the provided console script:
 
 ```bash
-web-service-template run
+web-service-life run
 ```
